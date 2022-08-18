@@ -1,0 +1,42 @@
+body{
+    width: 940px;
+    background: #A0DD9F;
+}
+
+.left-section {
+    width: 20%;
+    position: absolute;
+    top: 150px;
+}
+
+li {
+    padding: 20px 10px;
+    border: 5px solid #773279;
+    border-radius: 10px;
+    
+}
+
+a {
+    font-size: 25px;
+    font-weight: bold;
+    color: #773279;
+    text-decoration: none;
+}
+
+#hotelimage {
+    position: absolute;
+    top: 150px;
+    right: 10px;
+    width: 75%;
+    height: 500px;
+    border: 8px solid #afa4b4;
+    border-radius: 10px;
+    
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px
+}
+
